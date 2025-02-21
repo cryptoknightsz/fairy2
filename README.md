@@ -9,5 +9,5 @@
 2. :lock: Add your Github email address in Github Secrets as USER_EMAIL. ([Docs](https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository))
 3. :smile: Done!
 
-# How it works
+# How it works:
 It runs once a day around 12:00 (GMT), UTC +0. And it makes an empty commit to add contribution to your Github profile.
